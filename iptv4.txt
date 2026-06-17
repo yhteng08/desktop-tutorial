@@ -1,6 +1,5 @@
 更新时间,#genre#
 20260617 11:57:55,https://gitlab.com/youhun/TVAPP/-/raw/main/abput1080.mp4
-关于本源(公众号：游魂网),https://gitlab.com/youhun/TVAPP/-/raw/main/abput1080.mp4
 (百)每日一首,http://em.21dtv.com/songs/60143327.mkv
 (宝)MovieMusic欣赏,https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
 (箱)AMC音乐,https://AMChls.wns.live/hls/stream.m3u8
